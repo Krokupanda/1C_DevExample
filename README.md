@@ -1,2 +1,2 @@
 # 1C_DevExample
-1C pet projects and examples
+1С Пет проекты и примеры заданий
